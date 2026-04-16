@@ -3,3 +3,4 @@ uvicorn
 faster-whisper
 yt-dlp
 python-multipart
+httpx
